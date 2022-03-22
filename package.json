@@ -1,7 +1,6 @@
 {
   "name": "library-db",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,9 +10,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "mysql2": "^2.2.5",
-    "sequelize": "^6.3.5"
-  }
+    "dotenv": "^8.6.0",
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.17.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bvsswave/just-tech-news2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bvsswave/just-tech-news2/issues"
+  },
+  "homepage": "https://github.com/bvsswave/just-tech-news2#readme",
+  "description": ""
 }
